@@ -10,3 +10,7 @@ No terminal digitar os comandos:
 
 ## Clone Repo
 - git clone <path-repo>
+
+## Autor
+nome: luis felippe
+turma: a
